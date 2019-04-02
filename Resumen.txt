@@ -1,5 +1,0 @@
-Distribución Binomial, Binomial negativa, Poisson, Hipergeométrica.
-
-Distribución Binomial.
-
-La probabilidad del suceso no cambia al tomar elementos del conjunto o cualquier otra cosa (e.g. si saco un 3 al tirar un dado, la probabilidad de sacar luego un 4 sigue siendo 1/6)
