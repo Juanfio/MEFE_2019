@@ -1,4 +1,4 @@
 # MEFE_2019
-Métodos Estadísticos en Física Experimental - Verano 2019
+Statistical Methods in Experimental Physics - Summer 2019
 
-Este repositorio tiene todos los códigos utilizados en la materia Métodos Estadísticos en Física Experimental - Licenciatura en Ciencias Físicas - FCEyN - UBA.
+This repository has all the codes used in the subject Statistical Methods in Experimental Physics  - Licenciatura en Ciencias Físicas - Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires.
